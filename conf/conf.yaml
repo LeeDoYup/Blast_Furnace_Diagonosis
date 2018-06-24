@@ -1,0 +1,8 @@
+minibatch_size: 32 #64
+learning_rate: 0.000001
+epoch: 400
+train_folder_num: 13
+test_folder_num: 3
+weight_decay: 0.001
+augmentation: False
+save_weight_dir: './models/train_weights.txt'
